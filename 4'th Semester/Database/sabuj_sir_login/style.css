@@ -1,0 +1,45 @@
+/* Style the hero section */
+#hero {
+    background-image: url('hero-bg.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+  }
+  
+  #hero h1 {
+    font-size: 48px;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+  }
+  
+  #hero p {
+    font-size: 24px;
+    color: #fff;
+    margin: 20px 0;
+    padding: 0;
+  }
+  
+  #hero button {
+    background-color: #fff;
+    color: #333;
+    font-size: 20px;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+  
+  #hero button:hover {
+    background-color: #ddd;
+    color: #333;
+  }
+  
+  /* Style the other sections as needed */
+  
