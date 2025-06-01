@@ -1,10 +1,18 @@
-# 🎓 Academic_Staff
+# Academic_Staff
 
-This repository contains resources for academic staff, including class materials, assignments, and books.
+This repository serves as a centralized resource hub for academic staff, providing access to class materials, assignments, and reference books.
 
-## 📚 Contents
+---
 
-- **Class Resources:** Materials and resources for lectures and academic sessions.
-- **Assignments:** Various assignments for students and staff reference.
-- **Books:** Reference books and reading lists.
+## Repository Contents
 
+- **Class Resources:**  
+  Comprehensive materials and resources to support lectures and academic sessions.
+- **Assignments:**  
+  A collection of assignments for distribution, reference, and academic planning.
+- **Books:**  
+  Curated reference books and recommended reading lists to support teaching and learning.
+
+---
+
+Thank you for utilizing this resource to enhance academic activities and collaboration.
