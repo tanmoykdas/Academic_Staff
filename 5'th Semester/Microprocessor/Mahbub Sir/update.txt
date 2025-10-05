@@ -1,0 +1,6 @@
+microprocessor - Mahbub sir
+1. introductory
+2. chapter1 - slide 1 - 95
+3. chapter1 - slide 96 - 193
+4. chapter1 from book --- assembly language programming playlist
+5. chapter2 + chapter3 from book

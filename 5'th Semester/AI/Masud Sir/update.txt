@@ -1,0 +1,38 @@
+ai - masud sir
+1. introduction
+2. again introductory
+
+3. Chapter 02 (Intelligent agent)
+    - Agents & Environment
+    - Rationality (concept)
+    - Nature of environments
+    - Structure of agents
+Chapter 03 (Solving problems by searching)
+    - Problem solving agents
+    - Example problems
+    - Searching for solution (till page 81)
+
+4. Chapter 03 (Solving problems by searching)
+    - Uninformed search strategies
+        - Breadth first search
+
+5. Chapter 03 (Solving problems by searching)
+    - Uninformed search strategies
+        - BFS
+        - Uniform cast search
+        - DFS
+
+6. Chapter 03 (Solving problems by searching)
+    - Uninformed search strategies
+        - Depth limited search
+        - Iterative deepening search
+        - Bidirectional search
+        - comparing uninformed search algorithms
+7. Chapter 03 Informed search
+	-Best first search 
+	-evaluation function
+	-cost function
+	-hurestic function (SLD)
+	-greedy best first search
+	
+	-

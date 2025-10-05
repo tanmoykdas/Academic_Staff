@@ -1,0 +1,6 @@
+microprocessor - Chinmay sir
+1. basic about computer parts
+2. Chapter 02 - Main features of the 8 bit Microprocessor 8085, Functions of various pins
+3. Chapter 02 - Interrupt signals (page 22), Registers in 808
+4. Chapter 02 - 8085 instructions (partial...)
+5. Chapter 02 - 8085 instructions, 8085 interrupt, main features of 8086

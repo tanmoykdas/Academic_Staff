@@ -1,0 +1,33 @@
+- at first take a sever (pt server recommended)
+
+- then take e router (pt router)
+
+- then take 3 switch 
+
+- then take 4 user 
+
+- give a ip for server (192.168.1.100) make sure server is on
+
+
+
+- configure router:
+
+en
+
+conf t  
+
+int fa 0/0 
+
+ip address 192.168.1.1 255.255.255.0 
+
+no shutdown
+
+end
+
+wr [write / save the configure]
+
+
+
+
+
+
